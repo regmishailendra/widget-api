@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inside_dimen">25dp</dimen>
+    <dimen name="inside_dimen_big">50dp</dimen>
+    <dimen name="margin_inside">21dp</dimen>
+    <dimen name="margin_inside_big">42dp</dimen>
+</resources>
